@@ -15,7 +15,7 @@ local keyVerified = false
 
 -- Key Verification GUI
 local keyGui = Instance.new("ScreenGui")
-keyGui.Name = "KRNLKeySystem"
+keyGui.Name = "KRNLMixKeySystem"
 keyGui.Parent = CoreGui
 
 local keyFrame = Instance.new("Frame")
